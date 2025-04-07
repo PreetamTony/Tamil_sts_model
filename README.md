@@ -63,7 +63,7 @@ This project can be deployed to:
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/rGF14Skj)
+[![Screenshot](https://i.postimg.cc/BQyd9rFK/image.png)](https://postimg.cc/7f3BSQmH)
 
 ## License
 
